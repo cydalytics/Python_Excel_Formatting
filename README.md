@@ -16,3 +16,8 @@ This project is to use Python to automatically generate Excel report regularly.
 
 ## Project Details
 To check the tutorial article, please click [here](https://medium.com/@yeung_cyda/use-python-to-stylize-the-excel-formatting-58c2db9f90ca?sk=0e88f647fa0cda37a598dbc06ae1c36c).
+
+
+[![alt text](https://miro.medium.com/max/700/1*g9BYiJlF2G9OTH3jkPDWDA.png)](https://medium.com/@yeung_cyda/use-python-to-stylize-the-excel-formatting-58c2db9f90ca?sk=0e88f647fa0cda37a598dbc06ae1c36c)
+
+[![alt text](https://miro.medium.com/max/2400/1*1B36HdywOAIvctMUYENfhQ.png)](https://medium.com/@yeung_cyda/use-python-to-stylize-the-excel-formatting-58c2db9f90ca?sk=0e88f647fa0cda37a598dbc06ae1c36c)
